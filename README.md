@@ -7,7 +7,7 @@
 This repo has the solution of question done by me on the platform leetcode
 
 
-##Algorithms
+## Algorithms
 * [Linked List](https://github.com/king11223344/LeetCodeSolutions#linked-list)
 
 
