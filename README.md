@@ -16,4 +16,4 @@ This repo has the solution of question done by me on the platform leetcode
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 141 | [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [C++](./C++/linked-list-cycle.cpp)  | _O(n)_ | _O(1)_ | Easy ||
 234 | [palindrome-list-cycle](https://leetcode.com/problems/palindrome-linked-list/) | [C++](./C++/palindrome-linked-list.cpp)  | _O(n)_ | _O(1)_ | Easy ||
-234 | [linked-list-random-node](https://leetcode.com/problems/linked-list-random-node/) | [C++](./C++/linked-list-random-node.cpp)  | _O(n)_ | _O(1)_ | Easy ||
+234 | [linked-list-random-node](https://leetcode.com/problems/linked-list-random-node/) | [C++](./C++/linked-list-random-node.cpp)  | _O(1)_ | _O(n)_ | Easy ||
