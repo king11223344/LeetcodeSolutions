@@ -14,3 +14,4 @@ This repo has the solution of question done by me on the platform leetcode
 ## Linked List
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+141 | [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [C++](./C++/linked-list-cycle.cpp)  | _O(n)_ | _O(1)_ | Easy ||
